@@ -11,13 +11,15 @@
   "dependencies": {
     "@iconify/react": "^6.0.2",
     "@tailwindcss/vite": "^4.3.3",
-    "@vitejs/plugin-react": "latest",
     "@xyflow/react": "latest",
     "driver.js": "^1.8.0",
     "react": "latest",
     "react-dom": "latest",
     "react-router-dom": "^7.18.3",
-    "tailwindcss": "^4.3.3",
-    "vite": "latest"
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "vite": "^8.2.2"
   }
 }
